@@ -2,13 +2,13 @@
 ## Inhabiting Buildings, Data & Technology
 A full-day hybrid workshop [at CHI2024](https://chi2024.acm.org). Half-day online participation is welcome.
 
-11-16 May 2024, Honolulu, Hawai'i, USA. **Exact day TBA**
+**11-16 May 2024, Honolulu, Hawai'i, USA.** Exact day TBA
 
 **Submission deadline:** February 22nd, 2024
 
-**Submissions and questions via email to: [Jakub Krukar](mailto:krukar@uni-muenster.de) (please include 'HabiTech' in the email subject line).**
+**Submissions and questions via email to:** [Jakub Krukar](mailto:krukar@uni-muenster.de) (please include 'HabiTech' in the email subject line).
 
-Download the [full workshop paper here]("papers/habitech2024.pdf").
+Download the [full workshop paper here]("https://kubakrukar.github.io/habitech.github.io/papers/habitech2024.pdf").
 
 <img src="figures/fig1.png" />
 
@@ -19,8 +19,8 @@ The workshop will be a rolling full-day hybrid event. Participants on-site are i
 
 Submissions are possible in one of two formats:
 
-* a Motivational Statement highlighting professional interest in the workshop and relevant expertise (max. 2 pages, pdf files only)
-* an Extended Abstract in the [ACM Conference Proceedings Primary Article format](https://chi2024.acm.org/submission-guides/chi-publication-formats/) (max. 4 pages excluding references) addressing any subjects related to the topic including but not limited to:
+(1) a Motivational Statement highlighting professional interest in the workshop and relevant expertise (max. 2 pages, pdf files only)
+(2) an Extended Abstract in the [ACM Conference Proceedings Primary Article format](https://chi2024.acm.org/submission-guides/chi-publication-formats/) (max. 4 pages excluding references) addressing any subjects related to the topic including but not limited to:
 
 * Making the ongoing logging of user-behavior transparent, opt-in, and voluntary.
 * Data interfaces embedded in architectural space.
@@ -31,11 +31,11 @@ building users.
 * Maintaining data privacy inside buildings, including
 privacy-by-design.
 
-Please see the table for a preliminary mapping of relevant concepts against those already established in digital civics. Submissions should refer to one or more of these concepts.
+Please see the table bewlo for a preliminary mapping of relevant concepts against those already established in digital civics. Submissions should refer to one or more of these concepts.
 
-At least one author of each accepted paper must attend the workshop, and all participants must register for both the workshop and at least one day of the conference. Participants will be selected based on their prior experience, expressed interest in the workshop and the quality of their submissions. We will focus on recruiting from a diverse group of participants.
+At least one author of each accepted paper must attend the workshop. Participants will be selected based on their prior experience, expressed interest in the workshop and the quality of their submissions. We will focus on recruiting from a diverse group of participants.
 
-Depending on the number and quality of submissions we intend to invite the authors of the Extended Abstract to extend them either for a book or a journal special issue (e.g., [Springer Series in Adaptive Environments](https://www.springer.com/series/15693)).
+Depending on the number and quality of submissions we intend to invite the authors of Extended Abstracts to develop them either into a book chapter or a journal special issue manuscript (e.g. [Springer Series in Adaptive Environments book series](https://www.springer.com/series/15693)).
 
 
 Digital Civics | HabiTech
