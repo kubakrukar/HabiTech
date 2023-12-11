@@ -20,6 +20,7 @@ The workshop will be a rolling full-day hybrid event. Participants on-site are i
 Submissions are possible in one of two formats:
 
 (1) a Motivational Statement highlighting professional interest in the workshop and relevant expertise (max. 2 pages, pdf files only)
+
 (2) an Extended Abstract in the [ACM Conference Proceedings Primary Article format](https://chi2024.acm.org/submission-guides/chi-publication-formats/) (max. 4 pages excluding references) addressing any subjects related to the topic including but not limited to:
 
 * Making the ongoing logging of user-behavior transparent, opt-in, and voluntary.
