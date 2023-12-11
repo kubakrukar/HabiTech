@@ -31,7 +31,7 @@ building users.
 * Maintaining data privacy inside buildings, including
 privacy-by-design.
 
-Please see the table bewlo for a preliminary mapping of relevant concepts against those already established in digital civics. Submissions should refer to one or more of these concepts.
+Please see the table bewlo for a preliminary mapping of relevant concepts against those already established in digital civics. Submissions should refer to one or more of these concepts. Please indicate if you **do or do not** wish for your submisison to be published on the workshop website.
 
 At least one author of each accepted paper must attend the workshop. Participants will be selected based on their prior experience, expressed interest in the workshop and the quality of their submissions. We will focus on recruiting from a diverse group of participants.
 
@@ -70,7 +70,6 @@ city data from sensors (not always volunteered) | building data from sensors (no
 * 10:30 - 11:00: *Coffee break (‘domain-dotting’ activity over coffee)*
 * 11:00 - 12:00: Brainstorming session: Identifying missing and overlapping domains
 * 11:30 - 13:00: Christian Veddeler's Keynote + Discussion
-
 * 13:00 - 14:00: *Lunch*
 
 **Afternoon session**
@@ -82,7 +81,7 @@ city data from sensors (not always volunteered) | building data from sensors (no
 
 <img src="figures/worldtime.png" />
 
-We welcome on-site and online participation from different time zones. The Morning and Afternoon sessions are complementary but it is possible to participate online in only one of them.
+We welcome on-site and online participation from different time zones. Morning and Afternoon sessions are complementary but it is possible to participate in only one of them online.
 
 ## Accepted papers
 ...will be posted here
