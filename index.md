@@ -31,7 +31,7 @@ building users.
 * Maintaining data privacy inside buildings, including
 privacy-by-design.
 
-Please see the table bewlo for a preliminary mapping of relevant concepts against those already established in digital civics. Submissions should refer to one or more of these concepts. Please indicate if you **do or do not** wish for your submisison to be published on the workshop website.
+Please see the table below for a preliminary mapping of relevant concepts against those already established in digital civics. Submissions should refer to one or more of these concepts. Please indicate if you **do or do not** wish for your submisison to be published on the workshop website.
 
 At least one author of each accepted paper must attend the workshop. Participants will be selected based on their prior experience, expressed interest in the workshop and the quality of their submissions. We will focus on recruiting from a diverse group of participants.
 
