@@ -29,10 +29,9 @@ Submissions are possible in one of two formats:
 building users.
 * User-driven building design, building management, and facility maintenance.
 * Ethics of building-based personal data.
-* Maintaining data privacy inside buildings, including
-privacy-by-design.
+* Maintaining data privacy inside buildings, including privacy-by-design.
 
-Please see the table below for a preliminary mapping of relevant concepts against those already established in digital civics. Submissions should refer to one or more of these concepts. Please indicate whether you **do or do not** wish for your submisison to be published on the workshop website.
+Please see the table below for a preliminary mapping of relevant concepts against those already established in digital civics. Submissions should refer to one or more of these concepts. Please indicate whether you **do or do not** wish for your submission to be published on the workshop website.
 
 At least one author of each accepted paper must attend the workshop. Participants will be selected based on their prior experience, expressed interest in the workshop and the quality of their submissions. We will focus on recruiting from a diverse group of participants.
 
@@ -92,7 +91,7 @@ We welcome on-site and online participation from different time zones. Morning a
 
 **Professor Ruth Conroy Dalton**, *University of Northumbria at Newcastle, UK [(website)](https://www.northumbria.ac.uk/about-us/our-staff/d/ruth-dalton/)*. Ruth Conroy Dalton is a British architect, author and Professor of Architecture at Northumbria University. Her research interests are centred on the relationship between the spatial layout of buildings and environments and their effect on how people understand and interact in those spaces. She is an expert in space syntax analysis and using virtual environments as a method for researching human factors in the built environment.
 
-**Professor Christoph Hölscher**, *ETH Zurich and Singapore-ETH Future Cities Laboratory [(website)](https://cog.ethz.ch/people/prof--dr--christoph-hoelscher.html)*. Christoph has been Professor of Cognitive Science at ETH Zurich since 2013. Currently a member of the Singapore-ETH Future Cities Laboratory, he is also the programme director of the Future Resilient Systems programme - the second programme at the centre. His areas of research include wayfinding, spatial cognition & usability research for architectural design, HCI, user modelling & personalisation, information retrieval & web search behaviour.
+**Professor Christoph Hölscher**, *ETH Zurich and Singapore-ETH Future Cities Laboratory [(website)](https://cog.ethz.ch/people/prof--dr--christoph-hoelscher.html)*. Christoph Hoelscher is Full Professor of Cognitive Science at ETH Zurich since 2013, specializing in Applied Cognitive Science. Christoph is Program Co-Director at the Singapore ETH Center (SEC) Future Cities Laboratory Global, heading research on ‘Architectural Cognition in Practice’ and serves as Lead PI of Future Resilient Systems FRS. He holds a PhD in Psychology (University of Freiburg), served as honorary senior research fellow at UCL, Bartlett, and as visiting Professor at Northumbria University Newcastle. His areas of research include wayfinding, spatial cognition & usability research for architectural design, HCI, user modelling & personalisation, information retrieval & web search behaviour.
 
 **Assoc. Professor Nick Dalton**, *University of Northumbria at Newcastle, UK [(website)](https://www.northumbria.ac.uk/about-us/our-staff/d/nick-dalton/)*. Nick’s research exists in the crossover between architecture and human computer interaction. This includes areas such as space syntax in theoretical architecture. His current research area is that of very large-scale user interfaces: any user interface which is larger than a person. For example, this includes public displays, a digital wine shop, information sculptures, table-sized multitouch group interactions etc. He is a founding member of NORSC (Northumbria’s social computing research group).
 
