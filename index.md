@@ -8,7 +8,7 @@ A full-day hybrid workshop [at CHI2024](https://chi2024.acm.org). Half-day onlin
 
 **Submissions and questions via email to:** [Jakub Krukar](mailto:krukar@uni-muenster.de) (please include 'HabiTech' in the email subject line).
 
-Download the [full workshop paper here]("https://habitech.space/papers/habitech2024.pdf").
+Download the [full workshop paper here](https://habitech.space/papers/habitech2024.pdf).
 
 <img src="figures/fig1.png" />
 
