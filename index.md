@@ -104,10 +104,10 @@ We welcome on-site and online participation from different time zones. Morning a
 
 <img src="logos/fcl.png" width="300" />
 
-<img src="logos/eth.jpg" width="300" />
+<img src="logos/eth.png" width="300" />
 
 <img src="logos/ifgi.png" width="300" />
 
-<img src="logos/Northumbria.jpg" width="300" />
+<img src="logos/Northumbria.png" width="300" />
 
-<img src="logos/umu logo.jpg" width="300" />
+<img src="logos/umu logo.png" width="300" />
