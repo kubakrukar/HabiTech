@@ -10,6 +10,8 @@ A full-day hybrid workshop [at CHI2024](https://chi2024.acm.org). Half-day onlin
 
 Download the [full workshop paper here](papers/habitech2024.pdf).
 
+Conference rates (including a hybrid workshop-only option) are listed [here](https://web.cvent.com/event/58ee43c2-82d7-4e0d-a26d-06b6f21d7a99/summary?locale=en).
+
 <img src="figures/fig1.png" />
 
 ## Call for Papers
