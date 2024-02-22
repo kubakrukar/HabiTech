@@ -8,6 +8,10 @@ A full-day hybrid workshop [at CHI2024](https://chi2024.acm.org). Half-day onlin
 
 **Submissions and questions via email to:** [Jakub Krukar](mailto:krukar@uni-muenster.de) (please include 'HabiTech' in the email subject line).
 
+**Submission deadline:** ~~February 22nd, 2024~~ March 1st, 2024 (Anywhere-on-Earth)
+
+**Notification of acceptance:** March 11th
+
 Download the [full workshop paper here](papers/habitech2024.pdf).
 
 Conference rates (including a hybrid workshop-only option) are listed [here](https://web.cvent.com/event/58ee43c2-82d7-4e0d-a26d-06b6f21d7a99/summary?locale=en).
