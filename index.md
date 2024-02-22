@@ -4,7 +4,7 @@ A full-day hybrid workshop [at CHI2024](https://chi2024.acm.org). Half-day onlin
 
 **11 May 2024, Honolulu, Hawai'i, USA and online**
 
-**Submission deadline:** February 22nd, 2024
+**Submission deadline:** ~~February 22nd, 2024~~ March 1st, 2024 (Anywhere-on-Earth)
 
 **Submissions and questions via email to:** [Jakub Krukar](mailto:krukar@uni-muenster.de) (please include 'HabiTech' in the email subject line).
 
