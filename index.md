@@ -6,12 +6,11 @@ A full-day hybrid workshop [at CHI2024](https://chi2024.acm.org). Half-day onlin
 
 **Submission deadline:** ~~March 1st, 2024~~
 
-**Late submission possible:**
-If you decided to go to CHI after workshop deadline, we are happy to still involve you. You can submit a short attendee abstracts up until the late deadline.
+**Deadline for Late Submissions (abstracts):** May 6, 2024
 
-Late Deadline for submissions: May 6, 2024
-Type: Abstract describing your background and interest in the topic
-Notification of acceptance: Within 3 days
+If you decided to go to CHI after the workshop's submission deadline, we are happy to still involve you. You can submit a short attendee abstracts until the late deadline (May 6, 2024). In the abstract please describe your background and interest in the topic.
+
+**Notification of acceptance:** Within 3 days
 
 **Submissions and questions via email to:** [Jakub Krukar](mailto:krukar@uni-muenster.de) (please include 'HabiTech' in the email subject line).
 
