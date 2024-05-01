@@ -73,12 +73,13 @@ city data from sensors (not always volunteered) | building data from sensors (no
 
 **Morning session**
 
-* 09:05 - 09:10: Welcome
-* 09:10 - 10:30: Rapid fire presentations by participants
+* 09:00 - 09:15: Welcome
+* 09:15 - 10:30: Christian Veddeler's Keynote + Discussion
 * 10:30 - 11:00: *Coffee break (‘domain-dotting’ activity over coffee)*
-* 11:00 - 12:00: Brainstorming session: Identifying missing and overlapping domains
-* 11:30 - 13:00: Christian Veddeler's Keynote + Discussion
-* 13:00 - 14:00: *Lunch*
+* 11:00 - 11:45: Rapid fire presentations by participants
+* 11:45 - 12:30: Brainstorming session: Identifying missing and overlapping domains
+
+* 12:30 - 14:00: *Lunch*
 
 **Afternoon session**
 * 14:00 - 15:00: Rapid fire presentations by participants
@@ -90,9 +91,6 @@ city data from sensors (not always volunteered) | building data from sensors (no
 <img src="figures/worldtime.png" />
 
 We welcome on-site and online participation from different time zones. Morning and Afternoon sessions are complementary but it is possible to participate in only one of them online.
-
-## Accepted papers
-...will be posted here
 
 ## Organizers
 **Assist. Professor Jakub Krukar**, *Institute for Geoinformatics, University of Muenster, Germany [(website)](https://krukar.staff.ifgi.de/)*. Jakub is an expert in spatial cognition - a branch of cognitive science studying how people think about, think in, and think with space. With MA in cognitive psychology, PhD in architecture, and postdoctoral experience in geoinformatics he works on bridging the gap between cognitive science and architectural practice by integrating psychological evidence with algorithmic methods for spatial design and analysis.
