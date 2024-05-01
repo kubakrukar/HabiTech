@@ -4,6 +4,8 @@ A full-day hybrid workshop [at CHI2024](https://chi2024.acm.org). Half-day onlin
 
 **11 May 2024, Honolulu, Hawai'i, USA and online**
 
+**Location:** Hawaii Convention Center, room 307B
+
 **Submission deadline:** ~~March 1st, 2024~~
 
 **Deadline for Late Submissions (abstracts):** May 6, 2024
