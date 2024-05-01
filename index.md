@@ -78,7 +78,6 @@ city data from sensors (not always volunteered) | building data from sensors (no
 * 10:30 - 11:00: *Coffee break (‘domain-dotting’ activity over coffee)*
 * 11:00 - 11:45: Rapid fire presentations by participants
 * 11:45 - 12:30: Brainstorming session: Identifying missing and overlapping domains
-
 * 12:30 - 14:00: *Lunch*
 
 **Afternoon session**
@@ -93,7 +92,7 @@ city data from sensors (not always volunteered) | building data from sensors (no
 We welcome on-site and online participation from different time zones. Morning and Afternoon sessions are complementary but it is possible to participate in only one of them online.
 
 ## Organizers
-**Assist. Professor Jakub Krukar**, *Institute for Geoinformatics, University of Muenster, Germany [(website)](https://krukar.staff.ifgi.de/)*. Jakub is an expert in spatial cognition - a branch of cognitive science studying how people think about, think in, and think with space. With MA in cognitive psychology, PhD in architecture, and postdoctoral experience in geoinformatics he works on bridging the gap between cognitive science and architectural practice by integrating psychological evidence with algorithmic methods for spatial design and analysis.
+**Assist. Professor Jakub Krukar**, *Institute for Geoinformatics, University of Muenster, Germany [(website)](https://SPARC.uni-muenster.de/)*. Jakub is an expert in spatial cognition - a branch of cognitive science studying how people think about, think in, and think with space. With MA in cognitive psychology, PhD in architecture, and postdoctoral experience in geoinformatics he works on bridging the gap between cognitive science and architectural practice by integrating psychological evidence with algorithmic methods for spatial design and analysis.
 
 **Professor Ruth Conroy Dalton**, *University of Northumbria at Newcastle, UK [(website)](https://www.northumbria.ac.uk/about-us/our-staff/d/ruth-dalton/)*. Ruth Conroy Dalton is a British architect, author and Professor of Architecture at Northumbria University. Her research interests are centred on the relationship between the spatial layout of buildings and environments and their effect on how people understand and interact in those spaces. She is an expert in space syntax analysis and using virtual environments as a method for researching human factors in the built environment.
 
