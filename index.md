@@ -107,8 +107,4 @@ We welcome on-site and online participation from different time zones. Morning a
 **Professor Mikael Wiberg**, *Umeå University, Sweden [(website)](https://www.umu.se/personal/mikael-wiberg/)*. Mikael is a Professor of Informatics at Umeå university, Sweden. He is editor for the Architecture & Interaction forum for ACM Interactions, and his research interests includes a focus on interaction design at the scale of architecture, an interest in the materiality of interaction, and an interest in concept-driven design methods. He is the author of a recent book, "The Materiality of Interaction - Notes on the Materials of Interaction Design" (MIT Press, Jan 2018).
 
 ## Institutions
-<img src="logos/sec.png" height="100" />   <img src="logos/fcl.png" height="100" />
-
-<img src="logos/eth.png" height="100" />   <img src="logos/ifgi.png" height="100" /> 
-
-<img src="logos/Northumbria.png" height="100" />   <img src="logos/umu logo.png" height="100" />
+<img src="logos/logos.png" />
